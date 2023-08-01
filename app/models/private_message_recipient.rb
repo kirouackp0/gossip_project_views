@@ -1,0 +1,2 @@
+class PrivateMessageRecipient < ApplicationRecord
+end
